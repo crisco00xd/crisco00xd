@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently finishing my Science and Computer Engineer Bachelor.<br>🌱 I’m currently studying for Security+<br>💬 Ask me about Software or any tech-related stuff.<br>📫 How to reach me: Check my social links below!<br>⚡ Fun fact: I love Gaming.
+🔭 I’m currently finishing my Computer Science and Engineer Bachelor.<br>🌱 I’m currently studying for Security+<br>💬 Ask me about Software or any tech-related stuff.<br>📫 How to reach me: Check my social links below!<br>⚡ Fun fact: I love Gaming.
 
 
 ## 🌐 Socials:
