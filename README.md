@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently finishing my Computer Science and Engineer Bachelor.<br>🌱 I’m currently studying for Security+<br>💬 Ask me about Software or any tech-related stuff.<br>📫 How to reach me: Check my social links below!<br>⚡ Fun fact: I love Gaming.
+# 💻 About Me: <br>
+🔍 I am a computer science and engineering student on the brink of completing my Bachelor's degree. <br>
+🛡 I am currently expanding my knowledge in the field of cyber security by obtaining my Security+ certification. <br>
+💻 I am proficient in software development and have a passion for all things technology-related. <br>
+📧 Feel free to reach out to me for any inquiries or discussions on these topics. <br>
+🎮 In my free time, I enjoy immersing myself in the world of gaming. <br>
 
 
 ## 🌐 Socials:
